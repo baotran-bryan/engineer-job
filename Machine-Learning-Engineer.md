@@ -46,7 +46,9 @@ Backend: Rust, TypeScript, Python
 Framework/ Library
 
 Frontend: React, Next.js, WebGL, WebAssembly
+
 Backend: Rust (axum), Node.js (Express, Fastify, NestJS), PyTorch
+
 Infrastructure: Google Cloud, Google Kubernetes Engine, Anthos Service Mesh
 
 Database/Data Warehouse: CloudSQL (PostgreSQL), AlloyDB, Firestore, BigQuery
